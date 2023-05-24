@@ -1,9 +1,10 @@
-# free-maze
+# 3D ASCII Raycaster Engine "free-maze"
+
 A basic 3D ASCII Raycaster engine made in Python.
 
-# 3D ASCII Raycaster Engine
-
 The 3D ASCII Raycaster Engine is a Python-based rendering engine that creates a pseudo-3D effect using ASCII art. This engine allows you to navigate through a predefined maze using the WASD keys, providing a nostalgic and immersive experience reminiscent of early computer games.
+
+#### Watch the [official demo gameplay video](https://www.youtube.com/watch?v=gOGdCZ24sSE).
 
 ## Features
 
