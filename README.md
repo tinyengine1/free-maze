@@ -56,3 +56,8 @@ Under the following conditions:
 
 For more details about the license, please refer to the [license](LICENSE.md) file.
 
+
+# Latest update
+### Version 1.1
+- Improved maps.
+- Hopefully fixed an error where the game would crash when a player walked through a corner.
